@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Day.Photography/bin
+/Day.Photography/obj
+/Day.Photography/Properties
